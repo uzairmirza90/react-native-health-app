@@ -5,10 +5,10 @@ import Health from './components/health';
 
 export default function App() {
   return (
-    // Uncomment any one component at a time to render it
+    // Uncomment any one component below at a time to render it
 
+    <Profile />
     // <Health />
     // <Dependants />
-     <Profile />
   );
 }
